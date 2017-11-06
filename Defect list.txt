@@ -1,0 +1,4 @@
+Defects:
+   1. high priority
+	- Page is not fully responsive
+	- Left padding of display is not equal to right padding.
